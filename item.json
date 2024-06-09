@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Brands",
+    "topic": "Favorite Tech Brands",
+    "preference": ["Apple", "Samsung", "Microsoft"]
+  },
+  {
+    "id": 2,
+    "name": "Operating Systems",
+    "topic": "Preferred Operating Systems",
+    "preference": ["iOS", "Android", "Windows"]
+  },
+  {
+    "id": 3,
+    "name": "Gadgets",
+    "topic": "Gadget Preferences",
+    "preference": ["Smartphones", "Laptops", "Smartwatches"]
+  },
+  {
+    "id": 4,
+    "name": "Upgrade Frequency",
+    "topic": "Frequency of Upgrades",
+    "preference": ["Yearly", "Biannually", "Every few years"]
+  },
+  {
+    "id": 5,
+    "name": "Smart Home",
+    "topic": "Smart Home Devices",
+    "preference": ["Smart Speakers", "Thermostats", "Security Cameras"]
+  },
+  {
+    "id": 6,
+    "name": "Home Automation",
+    "topic": "Home Automation Interests",
+    "preference": ["Lighting Control", "Security Systems", "Voice Assistants"]
+  },
+  {
+    "id": 7,
+    "name": "Social Media",
+    "topic": "Social Media Platforms",
+    "preference": ["Facebook", "Instagram", "Twitter"]
+  },
+  {
+    "id": 8,
+    "name": "Usage Patterns",
+    "topic": "Social Media Usage Patterns",
+    "preference": ["Daily", "Weekly", "Sporadically"]
+  },
+  {
+    "id": 9,
+    "name": "Gaming",
+    "topic": "Gaming Preferences",
+    "preference": ["Console", "PC", "Mobile"]
+  },
+  {
+    "id": 10,
+    "name": "Favorite Games",
+    "topic": "Favorite Games",
+    "preference": ["Fortnite", "Call of Duty", "Minecraft"]
+  },
+  {
+    "id": 11,
+    "name": "Wearables",
+    "topic": "Wearable Technology",
+    "preference": ["Smartwatches", "Fitness Trackers", "VR Headsets"]
+  },
+  {
+    "id": 12,
+    "name": "Fitness Apps",
+    "topic": "Fitness Apps",
+    "preference": ["Strava", "MyFitnessPal", "Fitbit"]
+  },
+  {
+    "id": 13,
+    "name": "Tech News",
+    "topic": "Tech News Sources",
+    "preference": ["TechCrunch", "The Verge", "Wired"]
+  },
+  {
+    "id": 14,
+    "name": "Tech Blogs",
+    "topic": "Favorite Tech Blogs",
+    "preference": ["Gizmodo", "Mashable", "Engadget"]
+  },
+  {
+    "id": 15,
+    "name": "Streaming Services",
+    "topic": "Streaming Services",
+    "preference": ["Netflix", "Hulu", "Disney+"]
+  },
+  {
+    "id": 16,
+    "name": "Content Preferences",
+    "topic": "Content Preferences",
+    "preference": ["Movies", "TV Shows", "Documentaries"]
+  },
+  {
+    "id": 17,
+    "name": "Cloud Services",
+    "topic": "Cloud Services",
+    "preference": ["Google Drive", "Dropbox", "OneDrive"]
+  },
+  {
+    "id": 18,
+    "name": "Storage Solutions",
+    "topic": "Storage Solutions",
+    "preference": ["SSD", "HDD", "External Drives"]
+  },
+  {
+    "id": 19,
+    "name": "Virtual Reality",
+    "topic": "Virtual Reality",
+    "preference": ["Oculus Rift", "HTC Vive", "PlayStation VR"]
+  },
+  {
+    "id": 20,
+    "name": "Augmented Reality",
+    "topic": "Augmented Reality",
+    "preference": ["ARKit", "ARCore", "Microsoft HoloLens"]
+  }
+]
